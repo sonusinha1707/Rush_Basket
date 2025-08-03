@@ -1,4 +1,4 @@
-# 🚀 Rush Basket Frontend
+# 🚀 Rush Basket: Quick Commerce Platform
 
 ### 🖥️ Homepage
 ![Homepage Screenshot](https://github.com/sonusinha1707/Rush_Basket/blob/main/home.png)
